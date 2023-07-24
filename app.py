@@ -166,15 +166,15 @@ elif btn=='Monthly':
     t1,t2,t3,t4=st.tabs(['Revenue','Profit','Cost','Units Sold'])
 
     with t1:
-        fig = px.bar(temp_df, x="Order Month Name", y="Total Revenue",title="Monhtly Revenue",color='Order Month Name')
+        fig = px.bar(temp_df, x="Order Month Name", y="Total Revenue",title="Monthly Revenue",color='Order Month Name')
         st.plotly_chart(fig)
     with t2:
         fig = px.bar(temp_df, x="Order Month Name", y="Total Profit",title="Monthly Profit",color='Order Month Name')
         st.plotly_chart(fig)
     with t3:
-        fig = px.bar(temp_df, x="Order Month Name", y="Total Cost",title="Monhtly Cost",color='Order Month Name')
+        fig = px.bar(temp_df, x="Order Month Name", y="Total Cost",title="Monthly Cost",color='Order Month Name')
         st.plotly_chart(fig)
     with t4:
-        fig = px.bar(temp_df, x="Order Month Name", y="Units Sold",title="Monhtly Units Sold",color='Order Month Name')
+        fig = px.bar(temp_df, x="Order Month Name", y="Units Sold",title="Monthly Units Sold",color='Order Month Name')
         st.plotly_chart(fig)
 
