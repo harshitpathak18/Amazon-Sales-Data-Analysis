@@ -41,9 +41,9 @@ To provide a clear and intuitive representation of the analysis, interactive das
 - Python
 - Power BI
 
-## Conclusion
+# Conclusion
 
-# Decoding Amazon Sales Data: Unveiling Insights 📈
+## Decoding Amazon Sales Data: Unveiling Insights 📈
 
 Ever wondered what drives sales on Amazon? 🛒 I dived into the data using Python and Power BI, and the results are a goldmine of insights for businesses!
 
