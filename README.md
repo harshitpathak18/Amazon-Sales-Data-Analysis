@@ -10,10 +10,7 @@ This repository contains a comprehensive analysis of Amazon sales data. The anal
 - [Visualization](#visualization)
 - [Conclusion](#conclusion)
 - [Tools Used](#tools-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
+
 
 ## Introduction
 
